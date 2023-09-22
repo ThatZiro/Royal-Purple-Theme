@@ -1,0 +1,22 @@
+{
+  "name": "royal-purple-dark",
+  "displayName": "Royal Purple Dark",
+  "description": "Custom color theme designed by ThatZiro",
+  "version": "1.0.0",
+  "publisher": "ThatZiro",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Royal Purple Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Royal Purple Dark-color-theme.json"
+      }
+    ]
+  }
+}
