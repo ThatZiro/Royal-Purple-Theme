@@ -4,6 +4,10 @@
   "description": "Custom color theme designed by ThatZiro",
   "version": "1.0.0",
   "publisher": "ThatZiro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThatZiro/Royal-Purple-Theme"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
